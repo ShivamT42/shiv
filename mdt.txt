@@ -1,0 +1,6 @@
+21      load a
+22      add b
+23      mend
+24      load a
+25      sub b
+26      mend
