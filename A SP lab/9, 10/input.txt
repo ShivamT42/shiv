@@ -1,0 +1,10 @@
+MACRO ABC &a &b
+Load &a
+Store &b
+Store B
+mend
+
+MACRO XYZ &a
+Load &a
+Store A
+mend

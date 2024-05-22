@@ -1,0 +1,8 @@
+Load A
+Load 5
+Store 6
+Store B
+Load B
+Load 7
+Store A
+end
